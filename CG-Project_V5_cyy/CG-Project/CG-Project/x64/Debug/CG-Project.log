@@ -1,0 +1,27 @@
+﻿  CG-Project.cpp
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(74): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(74): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(75): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(75): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(129): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(161): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  Background.cpp
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(172): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(184): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(185): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(227): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(228): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(252): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(253): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(288): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(289): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(308): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\background.cpp(309): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“freeglut.lib”
